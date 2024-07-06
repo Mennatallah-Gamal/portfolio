@@ -16,7 +16,7 @@
 .hero .subtitle {
   color: var(--subtitle);
   margin-bottom: 1.6rem;
-  line-height: 1.6;
+  line-height: 1.8;
 }
 .hero .icons {
   gap: 1.2rem;
