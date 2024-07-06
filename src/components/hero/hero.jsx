@@ -1,7 +1,7 @@
 import React from "react";
 import "./hero.css";
 import Lottie from "lottie-react";
-import delopmentAnimation from "../../../public/animation/development.json";
+import delopmentAnimation from "../../../public/animation/developmentAnimation.json";
 const Hero = () => {
   return (
     <section className="hero container flex" id="about">

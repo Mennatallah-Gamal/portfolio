@@ -3,6 +3,7 @@ import Hero from "./components/hero/hero";
 import Contact from "./components/contact/contact";
 import Footer from "./components/footer/footer";
 import Projects from "./components/projects/projects";
+
 function App() {
   return (
     <>
