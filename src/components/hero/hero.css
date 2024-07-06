@@ -1,5 +1,5 @@
 .hero {
-  margin: 7rem 0;
+  margin: 7rem 0 8rem;
   justify-content: space-between;
 }
 .hero .left-section {
@@ -20,6 +20,7 @@
 }
 .hero .icons {
   gap: 1.2rem;
+  margin-top: 1rem;
 }
 .hero .icon {
   font-size: 1.6rem;
